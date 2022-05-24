@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //我是Master分支
         //第一次修改
+        //需要合并的代码
     }
 }
