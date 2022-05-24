@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         //我是Master分支
         //第一次修改
         //branch4分支修改了逻辑，现在测试正常，需要合并分支
+        //需要合并的代码
     }
 }
